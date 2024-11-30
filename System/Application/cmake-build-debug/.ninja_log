@@ -1,0 +1,14 @@
+# ninja log v5
+35	425	7475955894026478	CMakeFiles/Application.dir/C_/Users/user1/CLionProjects/FirstProject/System/PaymentSystem/Server/Server.c.obj	d5d3539ee9d7feaa
+4	448	7475955893975675	CMakeFiles/Application.dir/C_/Users/user1/CLionProjects/FirstProject/System/PaymentSystem/Card/Card.c.obj	44764182f9b4f9f9
+16	436	7475955893996471	CMakeFiles/Application.dir/main.c.obj	354822ade8052ff1
+449	992	7475955900316578	Application.exe	af9eef2799dd0540
+44	447	7475955894057309	CMakeFiles/Application.dir/C_/Users/user1/CLionProjects/FirstProject/System/PaymentSystem/Terminal/Terminal.c.obj	feb579a736eae635
+55	443	7475955894006494	CMakeFiles/Application.dir/C_/Users/user1/CLionProjects/FirstProject/System/DS/List/list.c.obj	9e570502306acc29
+24	438	7475955894006494	CMakeFiles/Application.dir/C_/Users/user1/CLionProjects/FirstProject/System/DataBase/File_Handling/FileHandling.c.obj	efd3d9b3784b2111
+5	188	7475960592423132	CMakeFiles/Application.dir/C_/Users/user1/CLionProjects/FirstProject/System/PaymentSystem/Card/Card.c.obj	44764182f9b4f9f9
+22	190	7475960592465187	CMakeFiles/Application.dir/C_/Users/user1/CLionProjects/FirstProject/System/PaymentSystem/Server/Server.c.obj	d5d3539ee9d7feaa
+14	198	7475960592525187	CMakeFiles/Application.dir/main.c.obj	354822ade8052ff1
+198	438	7475960594879256	Application.exe	af9eef2799dd0540
+49	996	7502040213066299	CMakeFiles/Application.dir/main.c.obj	354822ade8052ff1
+998	1860	7502040221689318	Application.exe	af9eef2799dd0540
